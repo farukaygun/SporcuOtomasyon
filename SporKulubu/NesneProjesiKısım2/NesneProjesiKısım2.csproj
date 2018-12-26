@@ -89,7 +89,6 @@
     <Compile Include="TransferListesineEkle.Designer.cs">
       <DependentUpon>TransferListesineEkle.cs</DependentUpon>
     </Compile>
-    <Compile Include="Veri.cs" />
     <Compile Include="Yardım.cs">
       <SubType>Form</SubType>
     </Compile>

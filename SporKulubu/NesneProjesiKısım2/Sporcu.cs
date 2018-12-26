@@ -21,11 +21,6 @@ namespace NesneProjesiKısım2
     abstract class Gorevli
     {
         protected string Ad;
-        protected string Soyad;
-        protected string Yas;
-        protected string Mevki;
-        protected string Maas;
-        protected string PiyasaDegeri;
         protected Gorevi gorev;
         public Gorevli(string Ad, Gorevi gorevi)
         {

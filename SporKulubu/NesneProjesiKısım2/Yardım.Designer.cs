@@ -30,6 +30,7 @@
         {
             this.linkLabelGithub = new System.Windows.Forms.LinkLabel();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.buttonGeri = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // linkLabelGithub
@@ -50,11 +51,22 @@
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 1;
             // 
+            // buttonGeri
+            // 
+            this.buttonGeri.Location = new System.Drawing.Point(122, 89);
+            this.buttonGeri.Name = "buttonGeri";
+            this.buttonGeri.Size = new System.Drawing.Size(129, 43);
+            this.buttonGeri.TabIndex = 2;
+            this.buttonGeri.Text = "Geri";
+            this.buttonGeri.UseVisualStyleBackColor = true;
+            this.buttonGeri.Click += new System.EventHandler(this.buttonGeri_Click);
+            // 
             // Yardım
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(263, 146);
+            this.ClientSize = new System.Drawing.Size(263, 144);
+            this.Controls.Add(this.buttonGeri);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.linkLabelGithub);
             this.Name = "Yardım";
@@ -69,5 +81,6 @@
 
         private System.Windows.Forms.LinkLabel linkLabelGithub;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.Button buttonGeri;
     }
 }

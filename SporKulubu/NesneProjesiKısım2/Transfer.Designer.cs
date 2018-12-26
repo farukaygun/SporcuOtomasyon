@@ -33,7 +33,6 @@
             this.buttonKaldır = new System.Windows.Forms.Button();
             this.buttonGeri = new System.Windows.Forms.Button();
             this.buttonTransferEt = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewTransferTablo)).BeginInit();
             this.SuspendLayout();
             // 
@@ -89,21 +88,11 @@
             this.buttonTransferEt.UseVisualStyleBackColor = true;
             this.buttonTransferEt.Click += new System.EventHandler(this.buttonTransferEt_Click);
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(342, 395);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 5;
-            this.label1.Text = "label1";
-            // 
             // Transfer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(966, 450);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.buttonTransferEt);
             this.Controls.Add(this.buttonGeri);
             this.Controls.Add(this.buttonKaldır);
@@ -114,7 +103,6 @@
             this.Load += new System.EventHandler(this.Transfer_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewTransferTablo)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -125,6 +113,5 @@
         private System.Windows.Forms.Button buttonKaldır;
         private System.Windows.Forms.Button buttonGeri;
         private System.Windows.Forms.Button buttonTransferEt;
-        private System.Windows.Forms.Label label1;
     }
 }

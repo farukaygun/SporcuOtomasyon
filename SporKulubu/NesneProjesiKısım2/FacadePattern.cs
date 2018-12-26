@@ -36,6 +36,7 @@ namespace NesneProjesiKısım2
             }
         }
 
+        //Facade Pattern
         public class Takım
         {
             public void Baslat()
@@ -46,6 +47,7 @@ namespace NesneProjesiKısım2
 
                 ortaSaha.MevkiEkle("defans");
                 string a = bilgi.Bilgilendir("ortasaha");
+                Console.WriteLine(a);
                 defans.Yukle("ortasaha");
 
                 ortaSaha.AntremanYap();

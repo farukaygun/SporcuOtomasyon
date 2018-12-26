@@ -51,9 +51,7 @@ namespace NesneProjesiKısım2
 
         private void AnaPencere_Load(object sender, EventArgs e)
         {
-            FacadePattern.Takım takım = new FacadePattern.Takım();
-            //Takıma iş yaptırdık.
-            takım.Baslat();
+            CompositeGorevli Antrenor = new CompositeGorevli("Ahmet ", Gorevi.Antrenor);
         }
 
         private void kaynakToolStripMenuItem_Click(object sender, EventArgs e)

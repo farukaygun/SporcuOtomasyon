@@ -27,5 +27,13 @@ namespace NesneProjesiKısım2
             dateTimePicker1.Format = DateTimePickerFormat.Custom;
             dateTimePicker1.CustomFormat = "dd/MM/yyyy hh:mm:ss";
         }
+
+        private void buttonGeri_Click(object sender, EventArgs e)
+        {
+            AnaPencere anapencere = new AnaPencere();
+            anapencere.Closed += (s, args) => this.Close();
+            this.Hide();
+            anapencere.Show();
+        }
     }
 }
