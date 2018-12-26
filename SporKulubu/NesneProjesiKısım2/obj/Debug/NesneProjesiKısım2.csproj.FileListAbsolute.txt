@@ -1,0 +1,16 @@
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\bin\Debug\NesneProjesiKısım2.exe.config
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\bin\Debug\NesneProjesiKısım2.exe
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\bin\Debug\NesneProjesiKısım2.pdb
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.csprojAssemblyReference.cache
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.AnaPencere.resources
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.Antreman.resources
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.Giris.resources
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.OyuncuEkle.resources
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.Properties.Resources.resources
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.Transfer.resources
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.TransferListesineEkle.resources
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.csproj.GenerateResource.cache
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.exe
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.pdb
+C:\Users\Faruk\Desktop\SporKulubu\NesneProjesiKısım2\obj\Debug\NesneProjesiKısım2.Yardım.resources
